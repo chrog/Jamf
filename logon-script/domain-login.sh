@@ -1,0 +1,1 @@
+if [ ! -f /Users/$3/Desktop/Laufwerke ]; then ln -sf /Users/logon.command /Users/$3/Desktop/Laufwerke; fi
